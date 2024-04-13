@@ -1,0 +1,247 @@
+L 03/23/2024 - 21:31:46: SourceMod error session started
+L 03/23/2024 - 21:31:46: Info (map "cf_m1_town") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20240323.log")
+L 03/23/2024 - 21:31:46: [SM] Unable to load extension "sourcescramble.ext": The specified module could not be found.
+
+L 03/23/2024 - 21:31:46: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/23/2024 - 21:31:46: [SM] Unable to load plugin "Charger_Collision_patch.smx": Required extension "Source Scramble" file("sourcescramble.ext") not running
+L 03/23/2024 - 21:42:53: Error log file session closed.
+L 03/23/2024 - 22:04:47: SourceMod error session started
+L 03/23/2024 - 22:04:47: Info (map "cf_m3_evac") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20240323.log")
+L 03/23/2024 - 22:04:47: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:04:47: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:04:47: [SM] Call stack trace:
+L 03/23/2024 - 22:04:47: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:04:47: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:04:50: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:04:50: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:04:50: [SM] Call stack trace:
+L 03/23/2024 - 22:04:50: [SM]   [1] Line 2398, abm.sp::IsClientsModel
+L 03/23/2024 - 22:04:50: [SM]   [2] Line 2325, abm.sp::AssignModel
+L 03/23/2024 - 22:04:50: [SM]   [3] Line 1581, abm.sp::QBakHook
+L 03/23/2024 - 22:04:50: [SM]   [5] SDKCall
+L 03/23/2024 - 22:04:50: [SM]   [6] Line 2568, abm.sp::TakeoverBotSig
+L 03/23/2024 - 22:04:50: [SM]   [7] Line 1850, abm.sp::SwitchToBot
+L 03/23/2024 - 22:04:50: [SM]   [8] Line 1871, abm.sp::Takeover
+L 03/23/2024 - 22:04:50: [SM]   [9] Line 1929, abm.sp::TakeoverTimer
+L 03/23/2024 - 22:04:51: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:04:51: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:04:51: [SM] Call stack trace:
+L 03/23/2024 - 22:04:51: [SM]   [1] Line 2398, abm.sp::IsClientsModel
+L 03/23/2024 - 22:04:51: [SM]   [2] Line 2325, abm.sp::AssignModel
+L 03/23/2024 - 22:04:51: [SM]   [3] Line 422, abm.sp::LifeCheckTimer
+L 03/23/2024 - 22:04:51: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:04:51: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:04:51: [SM] Call stack trace:
+L 03/23/2024 - 22:04:51: [SM]   [1] Line 2398, abm.sp::IsClientsModel
+L 03/23/2024 - 22:04:51: [SM]   [2] Line 2325, abm.sp::AssignModel
+L 03/23/2024 - 22:04:51: [SM]   [3] Line 1554, abm.sp::QAfkHook
+L 03/23/2024 - 22:04:51: [SM]   [5] ChangeClientTeam
+L 03/23/2024 - 22:04:51: [SM]   [6] Line 1822, abm.sp::SwitchToSpec
+L 03/23/2024 - 22:04:51: [SM]   [7] Line 968, abm.sp::GoIdle
+L 03/23/2024 - 22:04:51: [SM]   [8] Line 939, abm.sp::AutoIdleTimer
+L 03/23/2024 - 22:04:51: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:04:51: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:04:51: [SM] Call stack trace:
+L 03/23/2024 - 22:04:51: [SM]   [1] Line 2398, abm.sp::IsClientsModel
+L 03/23/2024 - 22:04:51: [SM]   [2] Line 2325, abm.sp::AssignModel
+L 03/23/2024 - 22:04:51: [SM]   [3] Line 1826, abm.sp::SwitchToSpec
+L 03/23/2024 - 22:04:51: [SM]   [4] Line 968, abm.sp::GoIdle
+L 03/23/2024 - 22:04:51: [SM]   [5] Line 939, abm.sp::AutoIdleTimer
+L 03/23/2024 - 22:04:51: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:04:51: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:04:51: [SM] Call stack trace:
+L 03/23/2024 - 22:04:51: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:11:52: Error log file session closed.
+L 03/23/2024 - 22:21:53: SourceMod error session started
+L 03/23/2024 - 22:21:53: Info (map "cf_m3_evac") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20240323.log")
+L 03/23/2024 - 22:21:53: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:21:53: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:21:53: [SM] Call stack trace:
+L 03/23/2024 - 22:21:53: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:21:53: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:21:58: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:21:58: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:21:58: [SM] Call stack trace:
+L 03/23/2024 - 22:21:58: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:21:58: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:22:03: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:22:03: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:22:03: [SM] Call stack trace:
+L 03/23/2024 - 22:22:03: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:22:03: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:22:08: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:22:08: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:22:08: [SM] Call stack trace:
+L 03/23/2024 - 22:22:08: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:22:08: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:22:13: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:22:13: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:22:13: [SM] Call stack trace:
+L 03/23/2024 - 22:22:13: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:22:13: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:22:18: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:22:18: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:22:18: [SM] Call stack trace:
+L 03/23/2024 - 22:22:18: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:22:18: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:22:23: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:22:23: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:22:23: [SM] Call stack trace:
+L 03/23/2024 - 22:22:23: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:22:23: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:22:28: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:22:28: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:22:28: [SM] Call stack trace:
+L 03/23/2024 - 22:22:28: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:22:28: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:22:33: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:22:33: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:22:33: [SM] Call stack trace:
+L 03/23/2024 - 22:22:33: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:22:33: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:22:38: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:22:38: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:22:38: [SM] Call stack trace:
+L 03/23/2024 - 22:22:38: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:22:38: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:22:43: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:22:43: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:22:43: [SM] Call stack trace:
+L 03/23/2024 - 22:22:43: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:22:43: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:22:48: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:22:48: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:22:48: [SM] Call stack trace:
+L 03/23/2024 - 22:22:48: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:22:48: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:22:53: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:22:53: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:22:53: [SM] Call stack trace:
+L 03/23/2024 - 22:22:53: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:22:53: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:22:58: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:22:58: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:22:58: [SM] Call stack trace:
+L 03/23/2024 - 22:22:58: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:22:58: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:23:03: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:23:03: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:23:03: [SM] Call stack trace:
+L 03/23/2024 - 22:23:03: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:23:03: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:23:08: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:23:08: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:23:08: [SM] Call stack trace:
+L 03/23/2024 - 22:23:08: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:23:08: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:23:13: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:23:13: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:23:13: [SM] Call stack trace:
+L 03/23/2024 - 22:23:13: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:23:13: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:23:18: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:23:18: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:23:18: [SM] Call stack trace:
+L 03/23/2024 - 22:23:18: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:23:18: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:23:23: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:23:23: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:23:23: [SM] Call stack trace:
+L 03/23/2024 - 22:23:23: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:23:23: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:23:28: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:23:28: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:23:28: [SM] Call stack trace:
+L 03/23/2024 - 22:23:28: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:23:28: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:23:33: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:23:33: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:23:33: [SM] Call stack trace:
+L 03/23/2024 - 22:23:33: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:23:33: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:23:38: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:23:38: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:23:38: [SM] Call stack trace:
+L 03/23/2024 - 22:23:38: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:23:38: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:23:43: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:23:43: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:23:43: [SM] Call stack trace:
+L 03/23/2024 - 22:23:43: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:23:43: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:23:48: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:23:48: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:23:48: [SM] Call stack trace:
+L 03/23/2024 - 22:23:48: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:23:48: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:23:53: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:23:53: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:23:53: [SM] Call stack trace:
+L 03/23/2024 - 22:23:53: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:23:53: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:23:58: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:23:58: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:23:58: [SM] Call stack trace:
+L 03/23/2024 - 22:23:58: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:23:58: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:24:03: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:24:03: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:24:03: [SM] Call stack trace:
+L 03/23/2024 - 22:24:03: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:24:03: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:24:08: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:24:08: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:24:08: [SM] Call stack trace:
+L 03/23/2024 - 22:24:08: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:24:08: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:24:13: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:24:13: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:24:13: [SM] Call stack trace:
+L 03/23/2024 - 22:24:13: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:24:13: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:24:18: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:24:18: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:24:18: [SM] Call stack trace:
+L 03/23/2024 - 22:24:18: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:24:18: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:24:23: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:24:23: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:24:23: [SM] Call stack trace:
+L 03/23/2024 - 22:24:23: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:24:23: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:24:28: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:24:28: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:24:28: [SM] Call stack trace:
+L 03/23/2024 - 22:24:28: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:24:28: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:24:33: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:24:33: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:24:33: [SM] Call stack trace:
+L 03/23/2024 - 22:24:33: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:24:33: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:24:38: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:24:38: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:24:38: [SM] Call stack trace:
+L 03/23/2024 - 22:24:38: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:24:38: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:24:43: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:24:43: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:24:43: [SM] Call stack trace:
+L 03/23/2024 - 22:24:43: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:24:43: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:24:48: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:24:48: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:24:48: [SM] Call stack trace:
+L 03/23/2024 - 22:24:48: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:24:48: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:24:53: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:24:53: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:24:53: [SM] Call stack trace:
+L 03/23/2024 - 22:24:53: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:24:53: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:24:58: [SM] Exception reported: Array index out-of-bounds (index -1, limit 8)
+L 03/23/2024 - 22:24:58: [SM] Blaming: abm.smx
+L 03/23/2024 - 22:24:58: [SM] Call stack trace:
+L 03/23/2024 - 22:24:58: [SM]   [1] Line 2247, abm.sp::_AutoModel
+L 03/23/2024 - 22:24:58: [SM]   [2] Line 537, abm.sp::ADTimer
+L 03/23/2024 - 22:25:13: Error log file session closed.

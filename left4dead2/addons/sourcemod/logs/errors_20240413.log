@@ -1,0 +1,17 @@
+L 04/13/2024 - 21:23:54: SourceMod error session started
+L 04/13/2024 - 21:23:54: Info (map "uz_crash") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20240413.log")
+L 04/13/2024 - 21:23:54: [SM] Unable to load extension "sourcescramble.ext": The specified module could not be found.
+
+L 04/13/2024 - 21:23:54: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/13/2024 - 21:23:55: [SM] Unable to load plugin "Charger_Collision_patch.smx": Required extension "Source Scramble" file("sourcescramble.ext") not running
+L 04/13/2024 - 21:31:29: Error log file session closed.
+L 04/13/2024 - 23:34:16: SourceMod error session started
+L 04/13/2024 - 23:34:16: Info (map "sector-74-chapter-8") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20240413.log")
+L 04/13/2024 - 23:34:16: [SM] Exception reported: Client 8 is not connected
+L 04/13/2024 - 23:34:16: [SM] Blaming: abm.smx
+L 04/13/2024 - 23:34:16: [SM] Call stack trace:
+L 04/13/2024 - 23:34:16: [SM]   [0] GetClientName
+L 04/13/2024 - 23:34:16: [SM]   [1] Line 2943, abm.sp::RespawnClientHandler
+L 04/13/2024 - 23:34:16: [SM]   [3] Call_Finish
+L 04/13/2024 - 23:34:16: [SM]   [4] Line 3246, abm.sp::GenericMenuHandler
+L 04/13/2024 - 23:35:15: Error log file session closed.

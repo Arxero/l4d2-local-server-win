@@ -1,0 +1,11 @@
+L 03/15/2024 - 21:02:10: SourceMod error session started
+L 03/15/2024 - 21:02:10: Info (map "dworld01_point") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20240315.log")
+L 03/15/2024 - 21:02:10: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/15/2024 - 21:18:18: Error log file session closed.
+L 03/15/2024 - 21:46:18: SourceMod error session started
+L 03/15/2024 - 21:46:18: Info (map "dworld03_noctis") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20240315.log")
+L 03/15/2024 - 21:46:18: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/15/2024 - 22:00:36: SourceMod error session started
+L 03/15/2024 - 22:00:36: Info (map "dworld04_monolith") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20240315.log")
+L 03/15/2024 - 22:00:36: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/15/2024 - 22:13:05: Error log file session closed.

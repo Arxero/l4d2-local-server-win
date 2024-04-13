@@ -1,0 +1,20 @@
+L 03/09/2024 - 21:35:48: SourceMod log file session started (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20240309.log") (Version "1.11.0.6934")
+L 03/09/2024 - 21:35:48: -------- Mapchange to l4d_ravenholm01_blackmesa --------
+L 03/09/2024 - 21:46:46: -------- Mapchange to l4d_ravenholm02_traptown --------
+L 03/09/2024 - 21:56:49: -------- Mapchange to l4d_ravenholm03_church --------
+L 03/09/2024 - 22:26:41: -------- Mapchange to l4d_ravenholm04_cavern --------
+L 03/09/2024 - 22:36:02: -------- Mapchange to l4d_ravenholm05_docks --------
+L 03/09/2024 - 22:49:34: Log file closed.
+L 03/09/2024 - 22:59:41: SourceMod log file session started (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20240309.log") (Version "1.11.0.6934")
+L 03/09/2024 - 22:59:41: [basecommands.smx] "Maverick<2><STEAM_1:0:37264973><>" changed cvar (cvar "l4d_csm_admins_only") (value "0")
+L 03/09/2024 - 23:00:32: [basecommands.smx] "Maverick<2><STEAM_1:0:37264973><>" changed cvar (cvar "l4d_csm_admins_only") (value "1")
+L 03/09/2024 - 23:00:43: [basecommands.smx] "Maverick<2><STEAM_1:0:37264973><>" changed cvar (cvar "l4d_csm_admins_only") (value "0")
+L 03/09/2024 - 23:04:59: [basecommands.smx] "Maverick<2><STEAM_1:0:37264973><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/09/2024 - 23:09:15: Log file closed.
+L 03/09/2024 - 23:15:33: SourceMod log file session started (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20240309.log") (Version "1.11.0.6934")
+L 03/09/2024 - 23:15:33: [basecommands.smx] "Maverick<2><STEAM_1:0:37264973><>" changed cvar (cvar "l4d_csm_admins_only") (value "0")
+L 03/09/2024 - 23:17:12: Log file closed.
+L 03/09/2024 - 23:29:24: SourceMod log file session started (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20240309.log") (Version "1.11.0.6934")
+L 03/09/2024 - 23:29:24: [basecommands.smx] "Maverick<2><STEAM_1:0:37264973><>" changed cvar (cvar "l4d_csm_admins_only") (value "0.0")
+L 03/09/2024 - 23:31:27: [basecommands.smx] "Maverick<2><STEAM_1:0:37264973><>" changed cvar (cvar "l4d_csm_admins_only") (value "0.0")
+L 03/09/2024 - 23:32:31: Log file closed.

@@ -1,0 +1,4 @@
+L 11/22/2023 - 20:58:27: SourceMod error session started
+L 11/22/2023 - 20:58:27: Info (map "wfp1_track") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231122.log")
+L 11/22/2023 - 20:58:27: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 11/22/2023 - 21:04:00: Error log file session closed.

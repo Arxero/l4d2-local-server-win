@@ -1,0 +1,7 @@
+L 04/06/2024 - 21:14:42: SourceMod error session started
+L 04/06/2024 - 21:14:42: Info (map "divide_origin") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20240406.log")
+L 04/06/2024 - 21:14:42: [SM] Unable to load extension "sourcescramble.ext": The specified module could not be found.
+
+L 04/06/2024 - 21:14:42: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/06/2024 - 21:14:42: [SM] Unable to load plugin "Charger_Collision_patch.smx": Required extension "Source Scramble" file("sourcescramble.ext") not running
+L 04/06/2024 - 22:09:55: Error log file session closed.
