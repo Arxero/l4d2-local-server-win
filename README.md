@@ -10,6 +10,7 @@ in case you want to skip all the desribed steps and need the correct files to pa
 
 ## Install
 1. Download this repo and paste all the files from `left4dead2` folder in their respective folders in your game files location (eg: `C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2`)
+
     ![](./images/game_files.png)
 
 2. Subsribe to [8 slots lobby fixed](https://steamcommunity.com/sharedfiles/filedetails/?id=2754956355) addon
