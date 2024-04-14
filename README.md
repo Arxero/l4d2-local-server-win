@@ -18,6 +18,6 @@ in case you want to skip all the desribed steps and need the correct files to pa
 
     ![](./images/insecure_option.png)
 
-That is it, you can now start the game and play, if you want more details check the guide.
+That is it, you can now start local server and play, if you want more details check the guide.
 
 ### Edit [this line](https://github.com/Arxero/l4d2-local-server-win/blob/3d78808cdc75e062cdfbb6fd5ade82f6e3bca23b/left4dead2/addons/sourcemod/configs/admins.cfg#L42) to add yourself as admin
