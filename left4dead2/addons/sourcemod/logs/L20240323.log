@@ -1,9 +1,0 @@
-L 03/23/2024 - 21:42:53: SourceMod log file session started (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20240323.log") (Version "1.11.0.6934")
-L 03/23/2024 - 21:42:53: -------- Mapchange to cf_m2_mall --------
-L 03/23/2024 - 21:57:23: -------- Mapchange to cf_m3_evac --------
-L 03/23/2024 - 22:11:47: [basecommands.smx] "Maverick<2><STEAM_1:0:37264973><>" changed map to "cf_m3_evac"
-L 03/23/2024 - 22:11:50: [SM] Changed map to "cf_m3_evac"
-L 03/23/2024 - 22:11:52: -------- Mapchange to cf_m3_evac --------
-L 03/23/2024 - 22:25:13: -------- Mapchange to cf_m4_outskirts --------
-L 03/23/2024 - 22:35:33: -------- Mapchange to cf_m5_highway --------
-L 03/23/2024 - 22:46:12: Log file closed.
